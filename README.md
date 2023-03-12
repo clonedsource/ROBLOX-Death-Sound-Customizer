@@ -1,5 +1,5 @@
 # ROBLOX-Death-Sound-Customizer
-A Death Sound Customizer for ROBLOX made entirely in Rust.
+A Death Sound Customizer for ROBLOX made entirely in Rust. Compiled to .exe for normal people's convenience cuz not everyone has rustc or cargo downloaded, and .exe can be run on nearly every windows OS. Might add MacOS Support later on, but I don't have a MacOS machine, so that isn't exactly possible for me currently.
 
 ## SUPPORTED OS
 Windows: **YES** (Vista, XP, 7, 8, 8.1, 10, 11)
@@ -22,6 +22,8 @@ Other(s): **NO**
 6. Run ROBLOX.
 
 ## FOOTNOTE
-If the program doesn't work-- dm me on discord-- clone#7782.
+* If the program doesn't work-- dm me on discord-- clone#7782.
 
-You will have to rerun this everytime roblox does an update, you'll know this because roblox has a ui for when it updates, so just a note for that I guess.
+* You will have to rerun this everytime roblox does an update, you'll know this because roblox has a ui for when it updates, so just a note for that I guess.
+
+* Source Code: https://github.com/clonedsource/ROBLOX-Death-Sound-Customizer-SOURCE
