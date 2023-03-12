@@ -3,7 +3,9 @@ A Death Sound Customizer for ROBLOX made entirely in Rust.
 
 ## SUPPORTED OS
 Windows: **YES** (Vista, XP, 7, 8, 8.1, 10, 11)
+
 MacOs: **NO**
+
 Other(s): **NO**
 
 ## SUPPORTED AUDIO FORMATS
