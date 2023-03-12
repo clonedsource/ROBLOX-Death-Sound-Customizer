@@ -10,6 +10,7 @@ Other(s): **NO**
 
 ## SUPPORTED AUDIO FORMATS
 .mp3
+
 .ogg
 
 ## INSTRUCTIONS
@@ -22,4 +23,5 @@ Other(s): **NO**
 
 ## FOOTNOTE
 If the program doesn't work-- dm me on discord-- clone#7782.
+
 You will have to rerun this everytime roblox does an update, you'll know this because roblox has a ui for when it updates, so just a note for that I guess.
